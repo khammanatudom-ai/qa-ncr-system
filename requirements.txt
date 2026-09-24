@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+Pillow
+pandas
+openpyxl
+python-pptx
+google-auth-oauthlib
+google-auth
+google-api-python-client

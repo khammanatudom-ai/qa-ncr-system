@@ -1,0 +1,11 @@
+.env
+credentials.json
+token.json
+__pycache__/
+*.db
+*.zip
+ngrok.exe
+app.spec
+SKC/
+VCS/
+Yanmar/
